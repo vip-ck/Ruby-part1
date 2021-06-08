@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["user","fio()","profession()"],"longSearchIndex":["user","user#fio()","user#profession()"],"info":[["User","","User.html","",""],["fio","User","User.html#method-i-fio","()",""],["profession","User","User.html#method-i-profession","()",""]]}}
