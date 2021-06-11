@@ -8,5 +8,5 @@ COLORS = {
   blue: 'синий',
   indigo: 'индиго',
   violet: 'фиолетовый'
-}
-puts COLORS [:green]
+}.freeze
+puts COLORS[:green]
