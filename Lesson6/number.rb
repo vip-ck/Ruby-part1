@@ -1,0 +1,13 @@
+# frozen_string_literal: true
+
+num = ARGV
+z = num[0].to_i
+def is_even_?(znachenie)
+  if znachenie.even?
+    puts 'Четное число'
+  else
+    puts 'Не четное число'
+  end
+end
+puts is_even_?(z)
+puts z
