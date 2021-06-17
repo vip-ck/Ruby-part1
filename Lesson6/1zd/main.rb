@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 
-require './1'
+require './const'
 puts WEEK
