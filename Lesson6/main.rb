@@ -1,10 +1,6 @@
-	
-	require './lib/hello'
+# frozen_string_literal: true
 
-		timemoment = Hello.new(Time.new.hour)
-		#puts Time.new.hour
-		puts timemoment.set_hello
-		
+require './lib/hello'
 
-
-
+timemoment = Hello.new(Time.new.hour)
+puts timemoment.set_hello
